@@ -5,7 +5,7 @@ This page hosts the second part (Statistics) of the PhD course Probability and S
 All lectures are held in Ång/64119.
 | Lecture | Topics | Reading Reference |
 |----------|----------|----------|
-| L1: Monday March 24, 10 - 12 | Exponential Family  | Chapter 2.1, 2.2, 5.1 |
+| L1: Monday March 24, 10 - 12 | Exponential Family and Inference Principle  | Chapter 2.1, 2.2, 5.1 |
 | L2: Monday March 31, 10 - 12  | Inference Principle |  Chapter 3  |
 | L3: Tuesday April 8, 13 - 15  | Estimation | Chapter 3, 4   |
 | L4: Friday April 11, 13 - 15  | Estimation |  Chapter 3, 4  |
