@@ -2,7 +2,7 @@
 This page hosts the second part (Statistics) of the PhD course Probability and Statistics (7.5hp). The course book for the second part is by Robert Keener (2010) [Theoretical Statistics: Topics for a Core Course](https://link.springer.com/book/10.1007/978-0-387-93839-4), Springer. We will take selected topics from the book.
 
 # Preliminary Time Plan
-All lectures are held in Ång/64119.
+All lectures are held in Ång/64119. You can access the time table via [timeedit](https://cloud.timeedit.net/uu/web/wr_staff/ri1629Q6X88Z50Q67Z603Q50yY0g2Y9x4Y8gY0wQ1735665ZX5746l6Q730Yu40X6944337559Y23YXx34965Q6585XZ4841006YZ65WAadBq55ut8bx5AZ4Q75cQBb1oZEA3QDbZ7001Qyt8QAZE4D1EBE6C68F6E00826.phtml). A preliminary plan is shown below.
 | Lecture | Topics | Reading Reference |
 |----------|----------|----------|
 | L1: Monday March 24, 10 - 12 | Exponential Family and Inference Principle  | Chapter 2.1, 2.2, 5.1 |
