@@ -1,5 +1,6 @@
 # PhD Course Probability and Statistics
 This page hosts the second part (Statistics) of the PhD course Probability and Statistics (7.5hp). The course book for the second part is by Robert Keener (2010) [Theoretical Statistics: Topics for a Core Course](https://link.springer.com/book/10.1007/978-0-387-93839-4), Springer. We will take selected topics from the book.
+
 Notes will be scribed on the blackboard. They will be uploaded to Github after each lecture.
 
 # Preliminary Time Plan
