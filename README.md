@@ -1,1 +1,1 @@
-112131
+We will study selected topics form the book Robert Keener (2010) [Theoretical Statistics: Topics for a Core Cours](https://link.springer.com/book/10.1007/978-0-387-93839-4)e. Springer. You can access the e-book via the university network.
