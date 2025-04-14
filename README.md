@@ -16,3 +16,6 @@ Note that in Sascha's website, we have a lecture on May 7th. It has been moved t
 | L8: April 25, 13 - 15  | Statistical decision theory | Chapter 7.1, 7.2, 11.3 |
 | L9: April 28, 13 - 15  | Large sample theory | Selected topics from Chapter 8, 9, 17 |
 | L10: May 5, 13 - 15 | Bootstrap | Chapter 19.1, 19.2, 19.3 |
+
+# Practice exercise
+Upon request, I have uploaded some practice exercises that I used in various other courses (bachelor and master). They are not compulsory assignments. It is only intended for voluntary practice. 
